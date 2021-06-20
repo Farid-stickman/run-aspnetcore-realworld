@@ -1,3 +1,4 @@
+//SomeChanges 
 Here is **implementation of aspnetrun-core base** on real-world **e-commerce web application** project;
 
 ![Recordit GIF](http://g.recordit.co/bfktvkE4BL.gif)
